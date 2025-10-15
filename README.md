@@ -18,3 +18,8 @@ Collection of lab-based Splunk queries and dashboards from EC-Council cyber secu
 - Threat detection using Splunk Enterprise
 
 _This was a school-based learning experience; no official EC-Council certification was received.
+
+splunk-labs-notes/
+├─ README.md       <- overview of what you did
+├─ splunk-queries.md <- SPL examples used
+└─ screenshots/    <- optional UI screenshots (if allowed)
